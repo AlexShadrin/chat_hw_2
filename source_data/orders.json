@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "Книга по Python",
+            "quantity": "1",
+            "price": "394",
+            "buyer": "Иванов",
+            "date": "30.11.2022"
+        },
+        {
+            "item": "Журнал по Python",
+            "quantity": "1",
+            "price": "981",
+            "buyer": "Петров",
+            "date": "11.03.2019"
+        }
+    ]
+}
